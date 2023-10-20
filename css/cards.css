@@ -1,0 +1,25 @@
+.cards {
+    background: #81A36B;
+    margin-bottom: 120px;
+}
+
+.cards > .container  {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    text-align: center;
+    margin: 79px 0;
+}
+.card p {
+    color: #161616;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.card img {
+    margin-bottom: 25px;
+} 
